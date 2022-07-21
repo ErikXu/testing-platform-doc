@@ -1,2 +1,8 @@
 * [简介](/)
 * [安装](install)
+* [设备](device)
+* [压力测试](stress-test)
+* [接口测试](api-test)
+* [代理终端](agent)
+* [定时任务](schedule)
+* [回调](callback)
