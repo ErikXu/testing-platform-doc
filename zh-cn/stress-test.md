@@ -4,7 +4,7 @@
 
 ![nginx](images/nginx.png)
 
-## 步骤
+## 使用步骤
 
 ### 新建场景
 
