@@ -20,6 +20,8 @@
 
 ![upload](images/upload.png)
 
+示例：[collection.json](collection.json ':ignore title :target=_blank')
+
 ### 查看场景详情
 
 点击`详情`按钮查看场景详情：
